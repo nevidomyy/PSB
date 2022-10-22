@@ -1,4 +1,9 @@
 Программа проверки реестров на выплату в банк Промсвязьбанк.
+Описание:
+  Выполняет матчинг содержимого реестров загруженных в программу с базой данной в формате csv.
+  Отображает информацию об ошибках.
+  Выводит подробную статистику по реестрам.
+  Позволяет объеденить реестры в один файл для дальнейшей загрузки в банкинг.
 Условия заказчика:
   1.Минимум библиотек и фраемворков.
   2.Отутсвие базы данных - использование csv файла.
@@ -10,6 +15,11 @@
   
   
 The program for checking registers for payment to Promsvyazbank.
+<b>Description:</b>
+Performs matching of the contents of registries loaded into the program with the database in csv format.
+Displays error information.
+Displays detailed statistics on registries.
+Allows you to combine registries into a single file for further uploading to banking.
 Customer conditions:
 1.Minimum libraries and frameworks.
 2.No database - using a csv file.
