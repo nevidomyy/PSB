@@ -1,0 +1,20 @@
+Программа проверки реестров на выплату в банк Промсвязьбанк.
+Условия заказчика:
+  1.Минимум библиотек и фраемворков.
+  2.Отутсвие базы данных - использование csv файла.
+  3.Полная кроссплатформенность графического интерфейса.
+  
+Реализация:
+  1.QT5
+  2.Библиотека csv
+  
+  
+The program for checking registers for payment to Promsvyazbank.
+Customer conditions:
+1.Minimum libraries and frameworks.
+2.No database - using a csv file.
+3.Full cross-platform GUI.
+
+Implementation:
+1.QT5
+2.csv library
