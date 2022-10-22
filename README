@@ -15,7 +15,7 @@
   
   
 The program for checking registers for payment to Promsvyazbank.
-<b>Description:</b>
+Description:
 Performs matching of the contents of registries loaded into the program with the database in csv format.
 Displays error information.
 Displays detailed statistics on registries.
